@@ -162,7 +162,7 @@ This project demonstrates the complete workflow of Exploratory Data Analysis on 
 
 ## 👨‍💻 Author
 
-**Keshav Rao**
+**Kesava Rao**
 
 Aspiring Data Analyst
 
