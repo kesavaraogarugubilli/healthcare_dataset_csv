@@ -1,4 +1,11 @@
 # 🏥 Healthcare Data Analysis (EDA) Project
+---
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red)
+---
 
 ## 📌 Project Overview
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a healthcare dataset using Python. The main objective is to clean, analyze, and visualize healthcare data to uncover meaningful insights that can support data-driven healthcare decisions.
